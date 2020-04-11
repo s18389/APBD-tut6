@@ -1,0 +1,24 @@
+GET
+/weatherforecast
+{
+	"IndexNumber": "s18389",
+	"FirstName": "Jogn",
+	"LastName": "Doe",
+	"BirthDate": "1999-01-01",
+	"Studies": "IT"
+	
+}
+?asdasdsa
+
+GET
+/weatherforecast
+{
+	"IndexNumber": "s18389",
+	"FirstName": "Jogn",
+	"LastName": "Doe",
+	"BirthDate": "1999-01-01",
+	"Studies": "IT"
+	
+}
+?asdasdsdsadsa
+
